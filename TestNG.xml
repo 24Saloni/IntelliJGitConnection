@@ -9,7 +9,7 @@
     <test name="LoginTestTEST">
         <classes>
             <class name="tests.LoginTests"/>
-            <!-- <class name="tests.RandomTest"/> -->
+            <class name="tests.RandomTest"/> 
           <!--   <class name="tests.LoginTestExtent"/> -->
           <!--   <class name="tests.LoginTest3"/> -->
         </classes>
