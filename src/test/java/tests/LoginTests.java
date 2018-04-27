@@ -9,8 +9,6 @@ import utils.Listeners.AssertionLibrary;
 
 public class LoginTests  {
 
-	AssertionLibrary al;
-   
 	@DataProvider(name = "browser-provider")
 	  public Object[][] provide() throws Exception {
 	      return new Object[][] {
